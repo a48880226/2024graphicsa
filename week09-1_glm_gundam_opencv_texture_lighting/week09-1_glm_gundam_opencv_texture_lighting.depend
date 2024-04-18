@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1713423845 source:c:\users\administrator\desktop\week09\week09-1_glm_gundam_opencv_texture_lighting\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1713423845 c:\users\administrator\desktop\week09\week09-1_glm_gundam_opencv_texture_lighting\glm.h
+	<GL/glut.h>
+
